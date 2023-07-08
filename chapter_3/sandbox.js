@@ -2,7 +2,7 @@
 const names = ['shaun', 'mario', 'luigi'];
 let i = 0;
 
-// while(i < 5){
+// while(i < 5){                                (only put conditions in this parenthesis of the for loop)
 //   console.log('loop: ', i);
 //   i++;
 // }
